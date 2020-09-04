@@ -1,0 +1,7 @@
+.next
+out
+node_modules
+_cacache
+_locks
+_logs
+anonymous-cli-metrics.json
